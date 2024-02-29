@@ -1,1 +1,1 @@
-Simple BMI Calculator using HTML,CSS ang JavaScript
+https://kesavansk7.github.io/BMI-Calculator/)https://kesavansk7.github.io/BMI-Calculator/
