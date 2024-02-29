@@ -1,0 +1,60 @@
+body{
+    background: linear-gradient(to bottom,cyan,dodgerblue,blue);
+    height: 100vh;
+}
+#bmiform{
+    background:linear-gradient(rgb(82, 24, 227),violet,purple);
+    padding: 50px;
+    display: inline-block;
+    border-radius: 20px;
+    border: 5px solid pink;
+    height: fit-content;
+}
+#bmiform label{
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    text-shadow: 2px 1px black;
+    margin:20px;
+}
+#bmiform input{
+    padding: 10px;
+    border-radius: 10px;
+    margin:20px;
+}
+#bmiform button{
+    padding: 10px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-left: 45%;
+}
+.bmiarea{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+#bmiform h1{
+    text-shadow: 2px 1px black;
+    color: white;
+    text-align: center;
+}
+#bmiform p{
+    color: white;
+    font-size: large;
+    text-align: center;
+}
+p{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+span{
+    color: rgb(255, 251, 3);
+    text-indent: 8px;
+}
